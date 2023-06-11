@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @Eznira
-- 👀 I’m interested in app development,backend dev and miceo controller programming
-- 🌱 I’m currently learning android dev
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me
+- 👀 I’m into app development with fluttter. 
+- 🌱 I’m currently enrolled in the backend tract of the alx software engineering program.
+- 💞️ I’m looking to collaborate on crossplatform devolopment solutions, backend solutions & technology, AI and ML integration to mobile application, and frankly anything tech
+
+- 📫 Chat/Connect with me:
+- https://Linkedin.com/in/Eznira 
+- ihimarinze@gmail.com
 
 <!---
 Eznira/Eznira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
