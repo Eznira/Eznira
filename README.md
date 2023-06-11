@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on crossplatform devolopment solutions, backend solutions & technology, AI and ML integration to mobile application, and frankly anything tech
 
 - 📫 Chat/Connect with me:
-- https://Linkedin.com/in/Eznira 
+- https://linkedin.com/in/ihimarinze
 - ihimarinze@gmail.com
 
 <!---
