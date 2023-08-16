@@ -1,13 +1,15 @@
 [![MasterHead](https://camo.githubusercontent.com/a747b7c8551265a6c366a142dcc22c306841e143557c7937c6c63b8131788d7e/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f38372f66332f66312f38376633663134323562323137363931646136343565393764626235306435352e676966)]()
 <h1 align="center">Hi 👋, I'm Ihim Arinze</h1>
 <h3 align="center">A passionate cross platform mobile developer</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 - 🌱 I’m currently learning **C programming, and enrolled in the backend track of Alx software engineering program**
 
 - 👯 I’m looking to collaborate on **Cross platform solutions, Backend solutions & technology, AI and ML integration to mobile applications**
 
 - 📫 How to reach me **ihimarinze@gmail.com**
+
+- ⚡ Fun fact **I'm passionate about God!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
