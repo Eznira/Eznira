@@ -37,7 +37,7 @@ I'm looking to leverage my development skills in a **Flutter internship** role w
 ---
 
 ### 📫 Get in Touch
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/ihimarinze)
+- LinkedIn: [linkedin.com/in/ihimarinze](https://www.linkedin.com/in/ihimarinze)
 - Email: [ihimarinze@gmail.com](mailto:ihimarinze@gmail.com)
 
 ---
