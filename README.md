@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate **Flutter Developer** with a back
 ---
 
 ### 🔧 Technologies & Tools
-- **Languages**: Dart, C++, Python
+- **Languages**: Dart, C, Python
 - **Frameworks**: Flutter
 - **Tools**: Git, FVM, Hive, Isar, Android Studio
 - **Other Skills**: Problem-Solving, Team Collaboration, Analytical Thinking, Critical Thinking
