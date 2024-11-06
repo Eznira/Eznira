@@ -19,6 +19,33 @@ Welcome to my GitHub profile! I'm a passionate **Flutter Developer** with a back
 
 ---
 
+### 🛠️ Projects
+Here are some of the projects I've worked on:
+
+- **[Habit Tracker App](https://github.com/Eznira/habit_tracker)**
+  <p align="center">
+    <img src="assets/screenshots/habit_tracker_app.jpg" alt="Habit Tracker App Screenshot" width="40%" />
+  </p>
+
+- **[Minimal Shop App](https://github.com/Eznira/minimal_e_shop)**
+  <p align="center">
+    <img src="assets/screenshots/minimal_shop_app.jpg" alt="Minimal Shop App Screenshot" width="40%" />
+  </p>
+
+- **[Todo App](https://github.com/Eznira/todo_app)**
+  <p align="center">
+    <img src="assets/screenshots/minimal_shop_app.jpg" alt="Todo App Screenshot" width="40%" />
+  </p>
+
+---
+
+### 🛠️ Projects- Colab
+- **[Fasthrash App](https://github.com/Eznira/fasthrash-Mobile_Eznira)**
+  <p align="center">
+    <img src="assets/screenshots/fasthrash_app.jpg" alt="Fasthrash App Screenshot" width="40%" />
+  </p>
+---
+
 ### 🚀 My Current Focus
 - **Building Flutter Apps for Windows** 💻
 - **Exploring Advanced State Management**: Separating database and state management layers
